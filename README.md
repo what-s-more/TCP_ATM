@@ -16,18 +16,19 @@
 ## 环境要求  
 - **Python 3.12**（推荐 3.8 及以上）。  
 - **依赖库**：  
-  - 服务器端：无额外依赖（仅需标准库 `socket`、`threading` 等）。  
+  - 服务器端：无额外依赖。  
   - 客户端（PyQt5）：需安装 `PyQt5`（`pip install PyQt5`）。  
-  - 客户端（Tkinter）：Python 标准库，无需额外安装（部分系统可能需手动安装 Tk 环境）。  
+  - 客户端（Tkinter）：Python 标准库，无需额外安装。  
 
 
 ## 目录结构  
 ```
-ATM-System/
+sever4csn/
 ├── 1.py              # 服务器端核心代码（TCP 通信、用户数据管理）
 ├── 2.py              # PyQt5 客户端
 ├── 3.py              # Tkinter 客户端
-└── information.txt   # 用户数据文件（格式：卡号,密码,余额）
+├── information.txt   # 用户数据文件（格式：卡号,密码,余额）
+└── server.log        # 服务器端日志
 ```
 
 
