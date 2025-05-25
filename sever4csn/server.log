@@ -1,0 +1,68 @@
+2025-04-20 16:08:34,010 - INFO - Connection from ('10.242.10.116', 64723) has been established!
+2025-04-20 16:09:10,051 - INFO - 8.0 withdrawn from user '666'. New balance: 12130.0.
+2025-04-20 16:11:25,497 - ERROR - Error handling client ('10.242.10.116', 64723): [WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2025-04-20 16:11:25,499 - INFO - Connection with ('10.242.10.116', 64723) closed.
+2025-04-20 16:27:48,165 - INFO - Connection from ('10.242.10.116', 50260) has been established!
+2025-04-20 16:28:14,487 - WARNING - User ID 'withdraw 0' not found for address ('10.242.10.116', 50260).
+2025-04-20 16:28:14,488 - INFO - Connection with ('10.242.10.116', 50260) closed.
+2025-04-20 16:28:28,166 - INFO - Connection from ('10.242.10.116', 50320) has been established!
+2025-04-20 16:28:41,139 - INFO - 0.0 withdrawn from user '666'. New balance: 12130.0.
+2025-04-20 16:28:56,431 - INFO - Connection with ('10.242.10.116', 50320) closed.
+2025-04-20 16:42:38,427 - INFO - Connection from ('10.242.10.116', 51597) has been established!
+2025-04-20 16:42:51,655 - INFO - -10000.0 withdrawn from user '666'. New balance: 22130.0.
+2025-04-20 16:43:18,800 - INFO - -7869.0 withdrawn from user '666'. New balance: 29999.0.
+2025-04-20 16:43:31,036 - INFO - -10000.0 withdrawn from user '666'. New balance: 39999.0.
+2025-04-20 16:43:35,475 - INFO - -10000.0 withdrawn from user '666'. New balance: 49999.0.
+2025-04-20 16:43:39,400 - INFO - -10000.0 withdrawn from user '666'. New balance: 59999.0.
+2025-04-20 16:43:45,480 - INFO - -10000.0 withdrawn from user '666'. New balance: 69999.0.
+2025-04-20 16:43:53,415 - INFO - -10000.0 withdrawn from user '666'. New balance: 79999.0.
+2025-04-20 16:43:59,950 - INFO - -10000.0 withdrawn from user '666'. New balance: 89999.0.
+2025-04-20 16:44:03,100 - INFO - -10000.0 withdrawn from user '666'. New balance: 99999.0.
+2025-04-20 16:44:06,862 - INFO - -1.0 withdrawn from user '666'. New balance: 100000.0.
+2025-04-20 16:44:09,683 - INFO - Connection with ('10.242.10.116', 51597) closed.
+2025-05-25 20:24:24,528 - INFO - Connection from ('127.0.0.1', 52221) has been established!
+2025-05-25 20:24:41,765 - WARNING - User ID 'bye' not found for address ('127.0.0.1', 52221).
+2025-05-25 20:24:41,765 - INFO - Connection with ('127.0.0.1', 52221) closed.
+2025-05-25 20:24:44,899 - INFO - Connection from ('127.0.0.1', 52307) has been established!
+2025-05-25 20:24:53,528 - WARNING - User ID 'HELO 666' not found for address ('127.0.0.1', 52307).
+2025-05-25 20:24:53,528 - INFO - Connection with ('127.0.0.1', 52307) closed.
+2025-05-25 20:25:36,734 - INFO - Connection from ('127.0.0.1', 52521) has been established!
+2025-05-25 20:25:42,113 - WARNING - User ID 'HELO 666' not found for address ('127.0.0.1', 52521).
+2025-05-25 20:25:42,113 - INFO - Connection with ('127.0.0.1', 52521) closed.
+2025-05-25 20:27:56,410 - INFO - Connection from ('127.0.0.1', 53109) has been established!
+2025-05-25 20:28:04,250 - WARNING - User ID 'bye' not found for address ('127.0.0.1', 53109).
+2025-05-25 20:28:04,251 - INFO - Connection with ('127.0.0.1', 53109) closed.
+2025-05-25 20:28:06,052 - INFO - Connection from ('127.0.0.1', 53150) has been established!
+2025-05-25 20:28:14,041 - WARNING - User ID 'bye' not found for address ('127.0.0.1', 53150).
+2025-05-25 20:28:14,041 - INFO - Connection with ('127.0.0.1', 53150) closed.
+2025-05-25 20:28:39,562 - INFO - Connection from ('127.0.0.1', 53287) has been established!
+2025-05-25 20:28:44,437 - WARNING - User ID 'HELO 666' not found for address ('127.0.0.1', 53287).
+2025-05-25 20:28:44,438 - INFO - Connection with ('127.0.0.1', 53287) closed.
+2025-05-25 20:29:12,786 - INFO - Connection from ('127.0.0.1', 53430) has been established!
+2025-05-25 20:29:18,033 - WARNING - Invalid password attempt for user '666' from address ('127.0.0.1', 53430).
+2025-05-25 20:29:18,033 - INFO - Connection with ('127.0.0.1', 53430) closed.
+2025-05-25 20:31:41,239 - INFO - Connection from ('127.0.0.1', 54062) has been established!
+2025-05-25 20:31:45,698 - WARNING - Invalid password attempt for user '666' from address ('127.0.0.1', 54062).
+2025-05-25 20:31:45,698 - INFO - Connection with ('127.0.0.1', 54062) closed.
+2025-05-25 20:36:34,347 - INFO - Connection from ('127.0.0.1', 55315) has been established!
+2025-05-25 20:36:41,054 - WARNING - Invalid password attempt for user '666' from address ('127.0.0.1', 55315).
+2025-05-25 20:36:41,055 - INFO - Connection with ('127.0.0.1', 55315) closed.
+2025-05-25 20:39:18,597 - INFO - Connection from ('127.0.0.1', 56001) has been established!
+2025-05-25 20:39:22,455 - WARNING - User ID 'HELO 666' not found for address ('127.0.0.1', 56001).
+2025-05-25 20:39:22,455 - INFO - Connection with ('127.0.0.1', 56001) closed.
+2025-05-25 20:39:56,553 - INFO - Connection from ('127.0.0.1', 56165) has been established!
+2025-05-25 20:39:59,906 - WARNING - Invalid password attempt for user '666' from address ('127.0.0.1', 56165).
+2025-05-25 20:39:59,906 - INFO - Connection with ('127.0.0.1', 56165) closed.
+2025-05-25 20:40:09,546 - INFO - Connection from ('127.0.0.1', 56223) has been established!
+2025-05-25 20:40:35,972 - INFO - Connection with ('127.0.0.1', 56223) closed.
+2025-05-25 20:41:04,733 - INFO - Connection from ('127.0.0.1', 56451) has been established!
+2025-05-25 20:41:25,878 - INFO - 1.0 withdrawn from user '666'. New balance: 9999.0.
+2025-05-25 20:41:27,773 - INFO - Connection with ('127.0.0.1', 56451) closed.
+2025-05-25 20:42:14,508 - INFO - Connection from ('127.0.0.1', 56742) has been established!
+2025-05-25 20:43:06,856 - INFO - 5.0 withdrawn from user '666'. New balance: 9994.0.
+2025-05-25 20:43:29,736 - INFO - Connection with ('127.0.0.1', 56742) closed.
+2025-05-25 20:59:49,181 - INFO - Connection from ('172.28.64.1', 61435) has been established!
+2025-05-25 21:02:42,088 - INFO - 6.0 withdrawn from user '666'. New balance: 9994.0.
+2025-05-25 21:02:49,833 - WARNING - Unknown command received from user '666': .
+2025-05-25 21:02:49,833 - ERROR - Error handling client ('172.28.64.1', 61435): [WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+2025-05-25 21:02:49,834 - INFO - Connection with ('172.28.64.1', 61435) closed.
